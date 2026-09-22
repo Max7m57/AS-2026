@@ -11,4 +11,4 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 
 ## Kdo
 
-Kód žáka: 12 · třída IT2
+Kód žáka: 12 · třída IT2 zdravicko
